@@ -1,1 +1,1 @@
-# DR-Detectionn
+# Diabetic Retinopathy Detection
